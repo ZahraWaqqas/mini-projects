@@ -1,0 +1,13 @@
+# IDE and Editor settings
+.idea/
+.vscode/
+*.iml
+
+# Python compiled files and caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
